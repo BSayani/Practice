@@ -16,6 +16,7 @@ print("Value of __main__", __name__)
 if __name__ == '__main__':
     print(add(23, 45))
     print(add(23, 99))
+	#Calling the documentation format of add method.
     print(add.__doc__)
     print("What's the tempaerature today??")
     print("I am in Banglaore, it's a pleasent weather")
