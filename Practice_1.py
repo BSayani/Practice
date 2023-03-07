@@ -9,7 +9,7 @@ def add(num1, num2):
 
 
 def WelcomeMsg():
-    print("hello")
+    print("hello Message , Welcome U All")
 
 
 print("Value of __main__", __name__)
